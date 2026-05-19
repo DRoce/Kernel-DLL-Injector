@@ -1,0 +1,34 @@
+# Visual Studio state
+.vs/
+*.user
+
+# Build outputs
+x64/
+Debug/
+Release/
+Win32/
+bin/
+obj/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.lib
+*.exp
+*.iobj
+*.ipdb
+*.tlog
+*.lastbuildstate
+
+# Runtime/generated files
+DumpedFiles/
+DumpOutput/
+INJECT_THIS_*.dll
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+*.rej
+Thumbs.db
+desktop.ini
